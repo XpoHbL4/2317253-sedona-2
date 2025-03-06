@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
-* Студент: [Роман Антонюк](https://up.htmlacademy.ru/htmlcss-individual/2/user/2317253).
-* Наставник: `Неизвестно`.
+- Студент: [Роман Антонюк](https://up.htmlacademy.ru/htmlcss-individual/2/user/2317253).
+- Наставник: [Станислав Михайлов](https://htmlacademy.ru/profile/id139638).
+- Сайт: [Мой проект Седона](https://xpohbl4.github.io/2317253-sedona-2/).
 
 ---
 
